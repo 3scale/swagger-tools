@@ -78,7 +78,7 @@
     "spark-md5": "^1.0.0",
     "string": "^3.3.0",
     "superagent": "^1.2.0",
-    "swagger-converter": "^0.1.7",
+    "swagger-converter": "git@github.com:3scale/swagger-converter.git#0.2.0-specification-extensions",
     "traverse": "^0.6.6",
     "z-schema": "^3.12.3"
   }
